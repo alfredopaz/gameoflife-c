@@ -1,0 +1,8 @@
+*.o
+*.swp
+*.swo
+*.bak
+*.tmp
+/life
+/test_model
+
